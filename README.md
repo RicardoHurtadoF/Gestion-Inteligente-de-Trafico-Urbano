@@ -1,11 +1,5 @@
 # Gestion-Inteligente-de-Trafico-Urbano
 
-Aquí tienes el **README.md sin emojis**, más limpio y formal para tu repositorio:
-
----
-
-# Gestión Inteligente de Tráfico Urbano
-
 Sistema distribuido para el monitoreo, análisis y control del tráfico en tiempo real, basado en una arquitectura desacoplada y comunicación mediante ZeroMQ.
 
 ## Descripción
